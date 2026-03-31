@@ -112,7 +112,11 @@ python train.py
 * <img width="718" height="566" alt="image" src="https://github.com/user-attachments/assets/359c90f6-ae27-4df2-b8e8-563b3fd1d935" />
 
 * Confusion Matrix
-* Sample Predictions
+* <img width="258" height="128" alt="image" src="https://github.com/user-attachments/assets/149c338d-61b0-4e8b-a0c7-8a3f26ae0eff" />
+
+* Classification Report
+* <img width="660" height="258" alt="image" src="https://github.com/user-attachments/assets/d64b06de-f3e4-4e1d-b671-d412cb321779" />
+
 
 ---
 
@@ -122,15 +126,6 @@ python train.py
 * Overfitting
 * Limited computational resources
 * Variability in MRI images
-
----
-
-## 🔮 Future Improvements
-
-* Use Transfer Learning (ResNet, VGG16)
-* Improve accuracy with data augmentation
-* Deploy as a web application
-* Real-time prediction system
 
 ---
 
