@@ -98,7 +98,7 @@ python train.py
 
 ## 📊 Results
 
-* Model Accuracy: ~85–95%
+* Model Accuracy: 95.8561361%
 * Training vs Validation accuracy plotted
 * Confusion Matrix generated
 * Classification Report with Precision, Recall, F1-score
