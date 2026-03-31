@@ -129,20 +129,7 @@ python train.py
 
 ---
 
-## 📁 Project Structure
 
-```
-Alzheimer-Detection-CNN/
-│
-├── dataset/
-├── notebooks/
-├── src/
-├── models/
-├── outputs/
-├── README.md
-├── requirements.txt
-└── report.pdf
-```
 ##Course
 Computer Vision(CSE3010)- Bring your own Project(BYOP) Capstone
 Faculty:Rakesh Srivastava | Slot:B21+E14
