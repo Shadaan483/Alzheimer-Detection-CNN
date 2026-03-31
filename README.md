@@ -107,9 +107,10 @@ python train.py
 
 ## 📸 Output Samples
 
-(Add your screenshots here)
 
 * Accuracy Graph
+* <img width="718" height="566" alt="image" src="https://github.com/user-attachments/assets/359c90f6-ae27-4df2-b8e8-563b3fd1d935" />
+
 * Confusion Matrix
 * Sample Predictions
 
